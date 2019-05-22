@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rashi/Desktop/UW - CSSE/CSS342/CS342Labs/Asg5_EyasRashid/driver.cpp
+iostream
+-
+string
+-
+slist.h
+C:/Users/rashi/Desktop/UW - CSSE/CSS342/CS342Labs/Asg5_EyasRashid/slist.h
+
+C:/Users/rashi/Desktop/UW - CSSE/CSS342/CS342Labs/Asg5_EyasRashid/slist.cpp.h
+
+C:/Users/rashi/Desktop/UW - CSSE/CSS342/CS342Labs/Asg5_EyasRashid/slist.h
+iostream
+-
+cstdlib
+-
+slist.cpp.h
+C:/Users/rashi/Desktop/UW - CSSE/CSS342/CS342Labs/Asg5_EyasRashid/slist.cpp.h
+
